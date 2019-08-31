@@ -23,7 +23,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 const showAlert = () => {
-  Alert.alert("SHOW ME");
+  Alert.alert("HELLO");
 }
 
 const App = () => {
